@@ -1,0 +1,17 @@
+{
+    "name": "Champions League",
+    "gcm_sender_id": "11407838466",
+    "short_name": "Champions League",
+    "description": "Champions League",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#00897B",
+    "theme_color": "#3D251B",
+    "icons": [
+        {
+            "src": "icon.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
